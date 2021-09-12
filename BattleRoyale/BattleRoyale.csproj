@@ -94,6 +94,7 @@
     <Compile Include="DisableMines.cs" />
     <Compile Include="DisableAchievements.cs" />
     <Compile Include="EventDisabler.cs" />
+    <Compile Include="Farmer_MovePosition.cs" />
     <Compile Include="FreezeTime.cs" />
     <Compile Include="Game.cs" />
     <Compile Include="GameLocation_damageMonster_Patcher.cs" />
